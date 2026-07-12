@@ -2,7 +2,7 @@
   <a href="https://arazshams.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2D3748?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/arazshams/">
+  <a href="https://www.linkedin.com/in/araz-shams/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -37,7 +37,7 @@ I'm passionate about creating modern web experiences with clean architecture, hi
 
 ### 📫 Connect with Me
 - **Portfolio**: [arazshams.vercel.app](https://arazshams.vercel.app)
-- **LinkedIn**: [Araz Shamsaddinlouy](https://www.linkedin.com/in/arazshams/)
+- **LinkedIn**: [Araz Shamsaddinlouy](https://www.linkedin.com/in/araz-shams/)
 - **Email**: [Your Email]
 
 ---
