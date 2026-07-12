@@ -1,9 +1,12 @@
 <p align="center">
-  <a href="https://arazshams.vercel.app">
+  <a href="https://arazshams.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2D3748?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/araz-shams/">
+  <a href="https://www.linkedin.com/in/araz-shams/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+   <a href="mailto:araz.shamsaddin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -38,7 +41,7 @@ I'm passionate about creating modern web experiences with clean architecture, hi
 ### 📫 Connect with Me
 - **Portfolio**: [arazshams.vercel.app](https://arazshams.vercel.app)
 - **LinkedIn**: [Araz Shamsaddinlouy](https://www.linkedin.com/in/araz-shams/)
-- **Email**: [Your Email]
+- **Email**: [araz.shamsaddin@gmail.com](mailto:araz.shamsaddin@gmail.com)
 
 ---
 
