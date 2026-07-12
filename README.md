@@ -1,7 +1,11 @@
-![Static Badge](https://img.shields.io/badge/Portfolio%20-%20Visit%20-%20%232D3748)
-
-![Static Badge](https://img.shields.io/badge/Linkedin%20-%20View%20-%20%230077B5)
-
+<p align="center">
+  <a href="https://arazshams.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2D3748?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/arazshams/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 # 👋 Hi, I'm Araz Shamsaddinlouy
 
