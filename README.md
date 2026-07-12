@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/Portfolio%20-%20Visit%20-%20%232D3748)
+
+![Static Badge](https://img.shields.io/badge/Linkedin%20-%20View%20-%20%230077B5)
+
+
 # 👋 Hi, I'm Araz Shamsaddinlouy
 
 **Senior Front-end Engineer** with 13+ years of experience building scalable and high-performance web applications. Specialized in React, Angular, Next.js, and TypeScript, with a strong focus on frontend architecture, performance optimization, and delivering reliable user experiences.
