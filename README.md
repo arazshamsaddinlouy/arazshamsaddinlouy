@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 سلام، من آراز شمس‌الدین‌لویی هستم
 
-<!--
-**arazshamsaddinlouy/arazshamsaddinlouy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**مهندس ارشد فرانت‌اند** با بیش از ۱۳ سال تجربه در ساخت اپلیکیشن‌های وب مقیاس‌پذیر و با کارایی بالا. تخصص من در React، Angular، Next.js و TypeScript است و بر روی معماری فرانت‌اند، بهینه‌سازی عملکرد و ارائه تجربه‌های کاربری قابل اعتماد تمرکز دارم.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ درباره من
+من به خلق تجربه‌های وب مدرن با معماری تمیز، عملکرد بالا و توجه ویژه به تجربه کاربری علاقه‌مندم. در طول سال‌ها، با تیم‌های مختلفی برای توسعه اپلیکیشن‌های سازمانی، پلتفرم‌های فین‌تک، محصولات SaaS و راه‌حل‌های وب در مقیاس بزرگ همکاری کرده‌ام. همیشه از تبدیل نیازمندی‌های پیچیده کسب‌وکار به رابط‌های کاربری شهودی، مقیاس‌پذیر و قابل نگهداری لذت می‌برم.
+
+---
+
+### 🛠️ تخصص‌های فنی
+- **فرانت‌اند**: React, Angular, Next.js, TypeScript, JavaScript, Redux, Zustand, RxJS
+- **استایل و طراحی**: Tailwind CSS, Ant Design, Bootstrap, SCSS, CSS3
+- **بک‌اند و پایگاه داده**: Node.js, Express, MySQL, MongoDB, PostgreSQL
+- **ابزارها و روش‌ها**: معماری کامپوننت، مدیریت state، SSR، بهینه‌سازی عملکرد، سئو، طراحی واکنش‌گرا، Webpack، Git
+
+---
+
+### 🌐 پروژه‌های شاخص
+- **[ProptIQ Real Estate](https://arazshams.vercel.app)** - پلتفرم هوشمند املاک و مستغلات با قابلیت جستجو و ارزیابی املاک بر اساس بودجه و اهداف سرمایه‌گذاری (Angular, TypeScript, SSR).
+- **[TalaeShow](https://arazshams.vercel.app)** - پلتفرم مدرن معاملات طلا و نقره با تمرکز بر عملکرد و تجربه کاربری (React, TypeScript, Vite).
+- **[Ergo Raffle](https://arazshams.vercel.app)** - پلتفرم مدرن crowdfunding و قرعه‌کشی با رابط‌های واکنش‌گرا و ادغام با سرویس‌های بک‌اند (React, JavaScript, REST API).
+
+*(برای مشاهده جزئیات بیشتر و پروژه‌های دیگر، به وب‌سایت پورتفولیو مراجعه کنید)*
+
+---
+
+### 📫 راه‌های ارتباطی
+- **وب‌سایت شخصی**: [arazshams.vercel.app](https://arazshams.vercel.app)
+- **لینکدین**: [Araz Shamsaddinlouy](https://www.linkedin.com/in/arazshams/) *(لینک صحیح را قرار دهید)*
+- **ایمیل**: [Your Email] *(در صورت تمایل اضافه کنید)*
+
+---
+
+> "Building scalable and high-performance web applications."
