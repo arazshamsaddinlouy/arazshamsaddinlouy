@@ -40,7 +40,8 @@ I'm passionate about creating modern web experiences with clean architecture, hi
 
 ### 📫 Connect with Me
 - **Portfolio**: [arazshams.vercel.app](https://arazshams.vercel.app)
-- **LinkedIn**: [Araz Shamsaddinlouy](https://www.linkedin.com/in/araz-shams/)
+- **LinkedIn**: [Araz Shamsaddinlouy](https://www.linkedin.com/in/arazshams/)
+- **GitHub**: [arazshamsaddinlouy](https://github.com/arazshamsaddinlouy)
 - **Email**: [araz.shamsaddin@gmail.com](mailto:araz.shamsaddin@gmail.com)
 
 ---
