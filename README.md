@@ -1,36 +1,36 @@
-# 👋 سلام، من آراز شمس‌الدین‌لویی هستم
+# 👋 Hi, I'm Araz Shamsaddinlouy
 
-**مهندس ارشد فرانت‌اند** با بیش از ۱۳ سال تجربه در ساخت اپلیکیشن‌های وب مقیاس‌پذیر و با کارایی بالا. تخصص من در React، Angular، Next.js و TypeScript است و بر روی معماری فرانت‌اند، بهینه‌سازی عملکرد و ارائه تجربه‌های کاربری قابل اعتماد تمرکز دارم.
-
----
-
-### ✨ درباره من
-من به خلق تجربه‌های وب مدرن با معماری تمیز، عملکرد بالا و توجه ویژه به تجربه کاربری علاقه‌مندم. در طول سال‌ها، با تیم‌های مختلفی برای توسعه اپلیکیشن‌های سازمانی، پلتفرم‌های فین‌تک، محصولات SaaS و راه‌حل‌های وب در مقیاس بزرگ همکاری کرده‌ام. همیشه از تبدیل نیازمندی‌های پیچیده کسب‌وکار به رابط‌های کاربری شهودی، مقیاس‌پذیر و قابل نگهداری لذت می‌برم.
+**Senior Front-end Engineer** with 13+ years of experience building scalable and high-performance web applications. Specialized in React, Angular, Next.js, and TypeScript, with a strong focus on frontend architecture, performance optimization, and delivering reliable user experiences.
 
 ---
 
-### 🛠️ تخصص‌های فنی
-- **فرانت‌اند**: React, Angular, Next.js, TypeScript, JavaScript, Redux, Zustand, RxJS
-- **استایل و طراحی**: Tailwind CSS, Ant Design, Bootstrap, SCSS, CSS3
-- **بک‌اند و پایگاه داده**: Node.js, Express, MySQL, MongoDB, PostgreSQL
-- **ابزارها و روش‌ها**: معماری کامپوننت، مدیریت state، SSR، بهینه‌سازی عملکرد، سئو، طراحی واکنش‌گرا، Webpack، Git
+### ✨ About Me
+I'm passionate about creating modern web experiences with clean architecture, high performance, and exceptional user experience. Throughout my career, I've collaborated with cross-functional teams to develop enterprise applications, fintech platforms, SaaS products, and large-scale web solutions. I enjoy transforming complex business requirements into intuitive, scalable, and maintainable user interfaces.
 
 ---
 
-### 🌐 پروژه‌های شاخص
-- **[ProptIQ Real Estate](https://arazshams.vercel.app)** - پلتفرم هوشمند املاک و مستغلات با قابلیت جستجو و ارزیابی املاک بر اساس بودجه و اهداف سرمایه‌گذاری (Angular, TypeScript, SSR).
-- **[TalaeShow](https://arazshams.vercel.app)** - پلتفرم مدرن معاملات طلا و نقره با تمرکز بر عملکرد و تجربه کاربری (React, TypeScript, Vite).
-- **[Ergo Raffle](https://arazshams.vercel.app)** - پلتفرم مدرن crowdfunding و قرعه‌کشی با رابط‌های واکنش‌گرا و ادغام با سرویس‌های بک‌اند (React, JavaScript, REST API).
-
-*(برای مشاهده جزئیات بیشتر و پروژه‌های دیگر، به وب‌سایت پورتفولیو مراجعه کنید)*
-
----
-
-### 📫 راه‌های ارتباطی
-- **وب‌سایت شخصی**: [arazshams.vercel.app](https://arazshams.vercel.app)
-- **لینکدین**: [Araz Shamsaddinlouy](https://www.linkedin.com/in/arazshams/) *(لینک صحیح را قرار دهید)*
-- **ایمیل**: [Your Email] *(در صورت تمایل اضافه کنید)*
+### 🛠️ Technical Expertise
+- **Frontend**: React, Angular, Next.js, TypeScript, JavaScript, Redux, Zustand, RxJS
+- **Styling**: Tailwind CSS, Ant Design, Bootstrap, SCSS, CSS3
+- **Backend & Database**: Node.js, Express, MySQL, MongoDB, PostgreSQL
+- **Tools & Practices**: Component Architecture, State Management, SSR, Performance Optimization, SEO, Responsive Design, Webpack, Git
 
 ---
 
-> "Building scalable and high-performance web applications."
+### 🌐 Featured Projects
+- **[ProptIQ Real Estate](https://arazshams.vercel.app)** - AI-powered real estate platform for discovering and evaluating properties based on budget and investment goals (Angular, TypeScript, SSR).
+- **[TalaeShow](https://arazshams.vercel.app)** - Modern gold and silver trading platform focused on performance and user experience (React, TypeScript, Vite).
+- **[Ergo Raffle](https://arazshams.vercel.app)** - Crowdfunding and raffle platform with responsive interfaces and backend integration (React, JavaScript, REST API).
+
+*(For more details and other projects, visit my portfolio website)*
+
+---
+
+### 📫 Connect with Me
+- **Portfolio**: [arazshams.vercel.app](https://arazshams.vercel.app)
+- **LinkedIn**: [Araz Shamsaddinlouy](https://www.linkedin.com/in/arazshams/)
+- **Email**: [Your Email]
+
+---
+
+> *"Building scalable and high-performance web applications."*
